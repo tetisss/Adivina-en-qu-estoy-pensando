@@ -1,0 +1,25 @@
+P|¿Es un mamífero?
+P|¿Vive en el agua?
+P|¿Es muy grande?
+R|Ballena
+P|Puede inflarse?
+R|Pez globo
+R|Delfín
+P|¿Maúlla?
+R|Gato
+P|¿Tiene trompa?
+R|Elefante
+P|¿Es doméstico?
+R|Perro
+R|León
+P|¿Puede volar?
+P|¿Es un ave de presa?
+R|Águila
+R|Loro
+P|¿Vive en el agua?
+P|¿Tiene tentáculos?
+R|Pulpo
+R|Tiburón
+P|¿Tiene caparazón?
+R|Tortuga
+R|Serpiente

@@ -1,0 +1,25 @@
+P|¿Es electrónico?
+P|¿Sirve para comunicarse?
+P|¿Cabe en el bolsillo?
+R|Celular
+R|Computadora
+P|¿Sirve para ver contenido?
+R|Televisión
+P|¿Sirve para mantener fría la comida?
+R|Refrigeradora
+R|Microondas
+P|¿Se usa en la cocina?
+P|¿Se usa para cortar?
+R|Cuchillo
+R|Olla
+P|¿Sirve para escribir?
+P|¿Se puede borrar?
+R|Lápiz
+R|Lapicero
+P|¿Se usa para dormir?
+P|Se puede reposar la cabeza en este objeto?
+R|Almohada
+R|Cama
+P|¿Sirve para abrir puertas?
+R|Llave
+R|Silla

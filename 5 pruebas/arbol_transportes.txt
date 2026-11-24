@@ -1,0 +1,29 @@
+P|¿Va por tierra?
+P|¿Tiene motor?
+P|¿Tiene dos ruedas?
+R|Moto
+P|¿Va sobre rieles?
+P|¿Va bajo tierra?
+R|Metro
+R|Tren
+P|¿Transporta muchos pasajeros?
+R|Autobús
+P|¿Tiene una caja para carga?
+R|Camión
+R|Carro
+P|¿Tiene dos ruedas?
+R|Bicicleta
+R|Patineta
+P|¿Va por el aire?
+P|¿Tiene hélices en la parte superior?
+R|Helicóptero
+P|¿Se infla con aire caliente?
+R|Globo aerostático
+R|Avión
+P|¿Va debajo del agua?
+R|Submarino
+P|¿Es muy grande?
+R|Barco
+P|¿Se mueve con remos?
+R|Canoa
+R|Lancha

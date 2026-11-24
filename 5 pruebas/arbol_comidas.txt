@@ -1,0 +1,23 @@
+P|¿Es dulce?
+P|¿Es frío?
+P|¿Lleva leche?
+R|Helado
+R|Granizado
+P|¿Es una fruta?
+P|¿Es amarilla?
+R|Banano
+R|Manzana
+P|¿Se hornea?
+R|Pastel
+R|Chocolate
+P|¿Lleva carne?
+P|¿Se come con las manos?
+R|Hamburguesa
+R|Bistec
+P|¿Es italiana?
+P|¿Es redonda?
+R|Pizza
+R|Espagueti
+P|¿Es una verdura?
+R|Ensalada
+R|Arroz

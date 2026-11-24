@@ -1,0 +1,25 @@
+P|¿Se juega en equipo?
+P|¿Se juega con los pies?
+P|¿Se juega en una cancha pequeña?
+R|Futsal
+R|Fútbol
+P|¿Se usa un bate?
+R|Béisbol
+P|¿Se encesta en un aro?
+R|Baloncesto
+P|¿Hay una red que separa a los equipos?
+R|Voleibol
+R|Rugby
+P|¿Se practica en el agua?
+P|¿Se usa una tabla?
+R|Surf
+R|Natación
+P|¿Se usa raqueta?
+P|¿Se juega con un volante en lugar de pelota?
+R|Bádminton
+R|Tenis
+P|¿Se usan guantes?
+R|Boxeo
+P|¿Se corre?
+R|Atletismo
+R|Ciclismo
